@@ -1,0 +1,2 @@
+ltl property IUO:
+   [] not outOfRange;
